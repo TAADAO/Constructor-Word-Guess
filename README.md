@@ -9,3 +9,7 @@ The game itself is a hangman style game using an array I created of all the coun
 The link to video the video is here. 
 
 https://www.youtube.com/watch?v=gE1vgjR-_-Q
+
+And the portfolio link is here: 
+
+https://taadao.github.io/UpdatedPortfolio/portfolio.html
